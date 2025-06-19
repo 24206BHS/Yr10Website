@@ -63,6 +63,14 @@ img {
     image-rendering: pixelated;
 }
 
+.topic-card-long{
+    background-color: rgb(71, 71, 71);
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
 /* Styling for the topic card titles */
 .topic-card-text{
     font-size: 1.5em;
