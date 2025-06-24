@@ -55,7 +55,7 @@ img {
 
 .topic-content-medium{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr, 2fr;
     gap: 6em;
     /* bring the whole section in off the sides of the page */
     width: 70%;
